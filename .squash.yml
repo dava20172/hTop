@@ -12,3 +12,4 @@ deployments:
     launch_steps:
       - cd ~/code/mysite
       - python manage.py runserver 0.0.0.0:80
+
